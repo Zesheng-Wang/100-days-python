@@ -13,3 +13,8 @@ Me ：I hope you will get something.
 - 变量
 
 # day 02 :
+
+- 数据类型
+- 数学运算符
+- 类型转换
+- f-Strings
