@@ -30,3 +30,7 @@ Me ：I hope you will get something.
 - random库
 - python列表
 
+## day 05:
+
+- for循环
+- range()函数
